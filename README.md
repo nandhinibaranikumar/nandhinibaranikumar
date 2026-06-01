@@ -1,4 +1,4 @@
-# Hi, I'm Nandhini Sri B 👋
+# Hi, I'm Nandhini Sri B 
 
  B.Sc Computer Science Student at M.O.P. Vaishnav College for Women (Autonomous), Chennai  
  Aspiring Full-Stack Developer | Java | Python | C++  
@@ -46,9 +46,8 @@ A full-stack platform that connects students with sustainability-focused interns
 ### Let's Connect
 
  Email: nandhinibaranikumar@gmail.com  
- LinkedIn: Your LinkedIn Profile  
- Portfolio: Your Portfolio Website  
- GitHub: Your GitHub Profile
+ LinkedIn: https://www.linkedin.com/in/nandhinibaranikumar/
+ Portfolio: https://nandhinibaranikumar.github.io/Portfolio/
 
 ---
 *"Learning, Building, and Growing One Project at a Time."*
