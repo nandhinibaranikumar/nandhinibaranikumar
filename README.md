@@ -45,9 +45,10 @@ A full-stack platform that connects students with sustainability-focused interns
 
 ### Let's Connect
 
- Email: nandhinibaranikumar@gmail.com  
- LinkedIn: https://www.linkedin.com/in/nandhinibaranikumar
- Portfolio: https://nandhinibaranikumar.github.io/Portfolio
+Email: nandhinibaranikumar@gmail.com
 
+LinkedIn: https://www.linkedin.com/in/nandhinibaranikumar
+
+Portfolio: https://nandhinibaranikumar.github.io/Portfolio
 ---
-*"Learning, Building, and Growing One Project at a Time."*
+
